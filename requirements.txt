@@ -1,0 +1,7 @@
+# Tested project logs used Python 3.13.3 and the versions listed below.
+# Reinstalling unpinned dependencies may yield different results.
+gymnasium[box2d]==1.4.0
+stable-baselines3[extra]==2.9.2
+numpy>=2.0,<3.0
+# Optional for RecordVideo MP4 output:
+moviepy<2
